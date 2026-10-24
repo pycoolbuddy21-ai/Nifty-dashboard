@@ -86,3 +86,10 @@ if results:
 
 time.sleep(5)
 st.rerun()
+streamlit
+yfinance
+pandas
+pandas-ta
+plotly
+requests
+urllib3
