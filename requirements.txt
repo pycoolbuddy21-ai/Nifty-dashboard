@@ -1,2 +1,5 @@
-streamlit
-pandas
+streamlit==1.39.0
+tradingview-ta==3.3.0
+pandas==2.2.3
+requests
+openpyxl
