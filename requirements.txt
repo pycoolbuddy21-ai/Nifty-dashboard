@@ -1,5 +1,2 @@
-streamlit==1.39.0
-tradingview-ta
-pandas==2.2.3
-requests
-openpyxl
+streamlit
+pandas
