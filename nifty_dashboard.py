@@ -2,6 +2,8 @@ import streamlit as st
 import yfinance as yf
 import pandas as pd
 import requests, io
+import warnings
+warnings.filterwarnings("ignore")
 from datetime import datetime
 
 st.set_page_config(page_title="FAST Nifty", layout="wide")
